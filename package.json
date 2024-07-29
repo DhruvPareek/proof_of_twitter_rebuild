@@ -1,0 +1,13 @@
+{
+  "name": "proof_of_twitter_rebuild",
+  "version": "1.0.0",
+  "description": "rebuilding proof of twitter via steps online",
+  "main": "index.js",
+  "author": "dhruv",
+  "license": "MIT",
+  "dependencies": {
+    "@zk-email/circuits": "^6.1.3",
+    "@zk-email/contracts": "^6.1.3",
+    "@zk-email/helpers": "^6.1.3"
+  }
+}
